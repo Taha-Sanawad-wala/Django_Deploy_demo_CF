@@ -1,5 +1,5 @@
 # Django Demo App
-This is a basic Django project created for demonstration purposes. The project includes a simple Django app with a single view that returns a "Hello, world!" message.
+This is a basic Django project created for demonstration purposes. The project includes a simple Django app with a single view that returns a "Hello, world!" message. And deploy that on cloud foundry.
 
 ## Requirements
 Python 3.x
