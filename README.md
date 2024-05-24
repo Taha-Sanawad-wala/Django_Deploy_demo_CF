@@ -42,7 +42,7 @@ Django 5.x
 2. Log in to your Cloud Foundry account: 
 ```cf login -a <API_ENDPOINT> -u <USERNAME> -p <PASSWORD>```
 
-4. Navigate to the root directory of your Django project.
+4. Navigate to the directory of your Django project where manifest.yml file is present.
 5. Deploy your application to Cloud Foundry:
 ```cf push```
 
